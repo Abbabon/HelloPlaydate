@@ -44,7 +44,6 @@ local function initialize()
 			gfx.clearClipRect()
 		end
 		)
-		
 	resetTimer()
 end
 
